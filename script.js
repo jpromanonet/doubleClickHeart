@@ -1,4 +1,4 @@
-const like = document.querySelector('.loveMe')
+const like = document.querySelector('.like')
 const times = document.querySelector('#times')
 
 let clickTime = 0
